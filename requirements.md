@@ -117,7 +117,7 @@ Out-of-scope (explicit):
 - Synthetic/public data only for demo and documentation.
 - Platform remains independent of current government systems (no dependency).
 
-## 10) Success Metrics (Hackathon + Real-world Signals)
+## 10) Success Metrics 
 - % discharge docs successfully structured into care plan (target: ≥ 90% on demo set)
 - Median document-to-plan time (target: ≤ 3 minutes)
 - Adherence event completion rate (target: ≥ 70% in pilot simulation)
